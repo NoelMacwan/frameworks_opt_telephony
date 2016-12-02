@@ -71,9 +71,7 @@ import com.android.internal.telephony.uicc.IccCardStatus;
 import com.android.internal.telephony.uicc.IccIoResult;
 import com.android.internal.telephony.uicc.IccRefreshResponse;
 import com.android.internal.telephony.uicc.IccUtils;
-import com.android.internal.telephony.RadioCapability;
-import com.android.internal.telephony.TelephonyDevController;
-import com.android.internal.telephony.HardwareConfig;
+import com.android.internal.telephony.uicc.SimPhoneBookAdnRecord;
 
 import java.io.ByteArrayInputStream;
 import java.io.DataInputStream;
